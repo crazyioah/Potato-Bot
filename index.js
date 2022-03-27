@@ -75,7 +75,7 @@ for (const file of eventFiles) {
 }
 //other random thingy
 player.on('error', (queue, error) => {
-	console.log(`There was a problem with the song queue => ${error.message}`);
+	console.log(`There was a problem with the song queue => ${error.message}`);	
 });
 
 player.on('connectionError', (queue, error) => {
