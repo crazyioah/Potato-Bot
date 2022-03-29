@@ -7,8 +7,8 @@ try {
 }
 const { Player } = require('discord-player');
 const Eco = require("quick.eco");
-const db = require('quick.db')
-const fs = require('fs')
+const db = require('quick.db');
+const fs = require('fs');
 const Discord = require('discord.js');
 const { prefix, shop, settings, token } = require('./config.json');
 //const reactionrolesjson = require('./reaction-roles.json')
