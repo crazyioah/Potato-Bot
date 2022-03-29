@@ -45,7 +45,7 @@ client.rr = new db.table('reactionroles');
 client.svc = new Service({
 	name: 'Potato bot',
 	description: 'potatoes',
-	script: 'D:\\programing\\programming\\GitHub\\Potato-Bot\\index.js'
+	script: 'C:\\Users\\NoahC\\OneDrive\\Documents\\GitHub\\Potato-Bot\\index.j'
 });
 const svc = client.svc
 
