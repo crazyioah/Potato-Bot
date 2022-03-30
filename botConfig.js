@@ -1,5 +1,5 @@
 module.exports = {
-    token: "ODk0MDYwMjgzMzczNDQ5MzE3.YVkghg.2OuZEd0QqCz-gongGexg_ToL2Mg",
+    token: "ODk0MDYwMjgzMzczNDQ5MzE3.YVkghg.zcAQAYAqxfleazsW8ZX9hoIHA5w",
     prefix: "potat",
     admins: ["709950767670493275"],
     debug: true,
