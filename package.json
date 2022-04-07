@@ -6,6 +6,7 @@
         "@discordjs/rest": "^0.3.0",
         "@discordjs/voice": "^0.8.0",
         "@quick.eco/sqlite": "^1.0.4",
+        "args": "^5.0.1",
         "better": "^0.1.0",
         "better-sqlite3": "^7.5.0",
         "discord-api-types": "^0.26.1",
